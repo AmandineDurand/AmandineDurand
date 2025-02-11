@@ -6,6 +6,7 @@
 - 😄 Je suis souriante, curieuse, motivée et j'aime apprendre
 - 🥇 J'ai été major de promo en 1e année (2024) avec 16.52 de moyenne 👩🏼‍🎓 Je le suis encore au 1er semestre 2025 avec 18.81 de moyenne
 
+<br>
 
 ## Mes compétences
 
@@ -24,16 +25,18 @@
 |---|---|---|  
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> |
 
+<br>
 
 ## Me contacter
 
-- ✉️ durandamandine@icloud.com
-- 🟦 https://www.linkedin.com/in/amandine-durand-3566452b8/
+- ✉️ [durandamandine@icloud.com](mailto:durandamandine@icloud.com)  
+- 🟦 [LinkedIn](https://www.linkedin.com/in/amandine-durand-3566452b8/) 
 
+<br>
 
 ## Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandineDurand&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineDurand&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=light" width="50%" style="border: none;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=light" width="50%" style="border: none;" />
 </p>
