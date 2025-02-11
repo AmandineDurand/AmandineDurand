@@ -1,10 +1,10 @@
 ## Plus d'informations sur moi
 
-- 🏫 Je suis en 2e année à EPSI Montpellier avec option développement
-- 👩🏼‍💻 Je suis actuellement en stage chez Onaos
-- 📊 Je travaille sur le traitement de données
+- 🏫 Je suis en 2e année à l'école d'ingénieurs EPSI Montpellier avec option développement
+- 👩🏼‍💻 Je suis actuellement en stage chez Onaos où je travaille sur le traitement de données 📊
 - 😄 Je suis souriante, curieuse, motivée et j'aime apprendre
-- 🥇 J'ai été major de promo en 1e année (2024) avec 16.52 de moyenne 👩🏼‍🎓 Je le suis encore au 1er semestre 2025 avec 18.81 de moyenne
+- 🥇 J'ai été major de promo en 1e année (2024) avec 16.52 de moyenne 👩🏼‍🎓 Je le suis encore au 1er semestre 2025 avec 18.81
+- 🔍 Je suis à la recherche d'une alternance sur Montpellier en Intelligence Artificielle à commencer dès septembre 2025
 
 <br>
 
