@@ -21,7 +21,7 @@
 
 ### DevOps 
 | Git | Bash | Docker | 
-|---|---|---|---|---|
+|---|---|---|
 | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
 
 ## Me contacter
