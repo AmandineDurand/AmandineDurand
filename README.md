@@ -1,4 +1,4 @@
-## Un peu plus d'informations sur moi
+## Plus d'informations sur moi
 
 - 🏫 Je suis en 2e année à EPSI Montpellier avec option développement
 - 👩🏼‍💻 Je suis actuellement en stage chez Onaos
