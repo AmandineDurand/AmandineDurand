@@ -9,32 +9,10 @@
 ### Mes compétences
 
 ## Frontend  
-<p align="left">
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <figcaption align="center">HTML5</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <figcaption align="center">CSS3</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <figcaption align="center">JavaScript</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-    <figcaption align="center">Vue.js</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-    <figcaption align="center">Bootstrap</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50" height="50"/>
-    <figcaption align="center">WordPress</figcaption>
-  </figure>
-</p>
+| HTML5 | CSS3 | JavaScript | Vue.js | Bootstrap | WordPress |
+|---|---|---|---|---|---|
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg) |
+
 
 ## Backend  
 <p align="left">
@@ -84,6 +62,6 @@
 ### Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandineDurand&show_icons=true&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineDurand&layout=compact&theme=default" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandineDurand&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineDurand&layout=compact&theme=default" alt="Top Langs" />
 </p>
