@@ -37,6 +37,6 @@
 ## Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandineDurand&show_icons=true&theme=light" width="60%" style="border: none;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineDurand&layout=compact&theme=light" width="38%" style="border: none;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandineDurand&show_icons=true&theme=light" width="55%" style="border: none;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandineDurand&layout=compact&theme=light" width="42%" style="border: none;" />
 </p>
