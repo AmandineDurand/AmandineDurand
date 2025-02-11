@@ -6,28 +6,30 @@
 - 😄 Je suis souriante, curieuse, motivée et j'aime apprendre
 - 🥇 J'ai été major de promo en 1e année (2024) avec 16.52 de moyenne 👩🏼‍🎓 Je le suis encore au 1er semestre 2025 avec 18.81 de moyenne
 
+
 ## Mes compétences
 
 ### Frontend  
 | HTML5 | CSS3 | JavaScript | Vue.js | Bootstrap | WordPress |
 |---|---|---|---|---|---|
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50"/> |
 
-
-### Backend 
+### Backend  
 | PHP | Symfony | Python | Django | MySQL |
 |---|---|---|---|---|
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![Symfony](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> |
 
-### DevOps 
-| Git | Bash | Docker | 
-|---|---|---|
-| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
+### DevOps  
+| Git | Bash | Docker |  
+|---|---|---|  
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> |
+
 
 ## Me contacter
 
 - ✉️ durandamandine@icloud.com
 - 🟦 https://www.linkedin.com/in/amandine-durand-3566452b8/
+
 
 ## Mes statistiques GitHub
 
